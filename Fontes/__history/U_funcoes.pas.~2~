@@ -1,0 +1,19 @@
+unit U_funcoes;
+
+interface
+//declarar funcoes e var
+
+function TestarPermissao(NOME_FORM:string):boolean;
+
+
+implementation
+
+function TestarPermissao(NOME_FORM:string):boolean;
+begin
+
+Result := True;
+
+end;
+
+
+end.

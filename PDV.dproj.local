@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/28 16:12:34.000.986,=C:\Users\Érico\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/28 16:16:32.000.345,C:\PDV\Fontes\U_inicial.pas=C:\Users\Érico\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/28 16:16:32.000.345,C:\PDV\Fontes\U_inicial.dfm=C:\Users\Érico\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/28 16:16:53.000.595,C:\PDV\PDV.dproj=C:\Users\Érico\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/28 17:07:45.000.016,=C:\PDV\Unit1.pas</Transaction>
+    <Transaction>2021/11/28 17:12:01.000.242,C:\PDV\Unit1.pas=C:\PDV\Fontes\U_clientes.pas</Transaction>
+    <Transaction>2021/11/28 17:12:01.000.242,C:\PDV\Unit1.dfm=C:\PDV\Fontes\U_clientes.dfm</Transaction>
+    <Transaction>2021/11/28 17:33:58.000.427,=C:\PDV\Unit1.pas</Transaction>
+    <Transaction>2021/11/28 18:35:32.000.216,=C:\PDV\Unit1.pas</Transaction>
+    <Transaction>2021/11/28 18:36:06.000.565,C:\PDV\Unit1.pas=C:\PDV\Fontes\U_funcoes.pas</Transaction>
+    <Transaction>2021/11/28 18:52:03.000.606,=C:\PDV\Unit1.pas</Transaction>
+    <Transaction>2021/11/28 18:53:39.000.060,C:\PDV\Unit1.dfm=C:\PDV\Fontes\U_produtos.dfm</Transaction>
+    <Transaction>2021/11/28 18:53:39.000.060,C:\PDV\Unit1.pas=C:\PDV\Fontes\U_produtos.pas</Transaction>
+    <Transaction>2021/11/28 20:06:14.000.860,=C:\PDV\Unit1.pas</Transaction>
+    <Transaction>2021/11/28 20:06:58.000.051,C:\PDV\Fontes\U_dm.pas=C:\PDV\Unit1.pas</Transaction>
+    <Transaction>2021/11/28 20:06:58.000.051,C:\PDV\Fontes\U_dm.dfm=C:\PDV\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

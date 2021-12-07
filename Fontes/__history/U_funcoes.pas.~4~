@@ -1,0 +1,25 @@
+unit U_funcoes;
+
+interface
+//declarar funcoes e var
+
+function TestarPermissao(NOME_FORM:string):boolean;
+
+
+implementation
+
+uses Dialogs;
+
+function TestarPermissao(NOME_FORM:string):boolean;
+begin
+
+Result := False;
+
+if Result =false then
+ShowMessage('Acesso não permitido')
+
+
+end;
+
+
+end.
